@@ -104,7 +104,7 @@ For questions or feedback, contact:
 - **Name**: Anastasios Tatarakis
 - **Email**: [tatarakis.a@gmail.com]
 - **GitHub**: [Anastasios3](https://github.com/Anastasios3)
-- **Website**: [Anastasios-Tatarakis](https://antatarakis.gr)
+- **Website**: [Anastasios-Tatarakis](https://antatarakis.com)
 
 ---
 
